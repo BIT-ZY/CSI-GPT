@@ -11,11 +11,13 @@ If you feel this repo helpful, please cite our paper:
 ## Requirements 
 To use this project, you need to ensure the following requirements are installed.
 - Python >= 3.8
-- - Pytorch >= 1.11.0
+- Pytorch >= 1.11.0
 ## Project Preparation 
 ## Data Preparation 
 The CDL channel state information (CSI) matrix is generated from [Sionna](https://developer.nvidia.cn/sionna/) model.
 ## Folder 
 The folder [SWTCAN] corresponds to the [IV.SIMULATION RESULTS part A] code in the article.
+
 The folder [VAE-CSG] corresponds to the [IV.SIMULATION RESULTS part B] code in the article.
+
 The folder [Fderated Tuning] corresponds to the [IV.SIMULATION RESULTS part C] code in the article.
